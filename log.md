@@ -16,6 +16,7 @@ I've never taken time to learn JavaScript properly, but I've recently learned th
 * `.pop()`: **remove** a value from the **end** of an array. Example of use: [1, 4, 6].pop()
 * `.shift()`: **remove** the **first value** from an array. Example of use: removedFromMyArray = myArray.shift()
 * `.unshift(//value)`: **add** a value to the **beginning** of an array. 
+
 ####**Functions**
 * **A sample function**, and how it's called:
 ```javascript
