@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 5, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned JavaScript Arrays.
+ 
+**Thoughts:** I've never taken time to learn JavaScript properly, but I've recently learned that JS is extremely important and versatile. So glad FCC teaches us about multidimensional arrays, which was only lightly touched on in my Diploma course. Also, it's really great how the challenge requires us to use GitHub, because now I'd have good, practical exercises to practice using GitHub.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Study Notes**:
 
 
-### Day 1: June 27, Monday
+**Links to work:** 
+1. [Modify Array Data With Indexes](https://www.freecodecamp.com/challenges/modify-array-data-with-indexes)
+2. [Access MultiDimensional Arrays With Indexes](https://www.freecodecamp.com/challenges/access-multidimensional-arrays-with-indexes)
+3. [Manipulate Arrays With push](https://www.freecodecamp.com/challenges/manipulate-arrays-with-push)
+4. [Manipulate Arrays With pop](https://www.freecodecamp.com/challenges/manipulate-arrays-with-pop)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
