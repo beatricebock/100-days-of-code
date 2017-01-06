@@ -52,3 +52,16 @@ function myFun() {
 1. [Challenge: Shopping List](https://www.freecodecamp.com/challenges/shopping-list)
 
 
+
+## <h1> Day 1: January 6, 2017 </h1>
+
+###**Today's Progress**: 
+* Completed the What is ASP.NET Core module
+* Completed the HTML and CSS Basics module
+* Followed along the tutorials with a local project and uploaded the notes and files to GitHub.
+ 
+###**Thoughts:** 
+There's a lot about learning technology that changes so much (so many resource versions since July 2016) that really teaches us to be versatile. Since quite a bit has changed with the extensions and resources used in the tutorials, I've had to dig around a little bit and train myself to avoid copying and pasting each line of code exactly in the tutorials. It's so important to do exercises on your own after watching tutorials; it really helps to strengthen and cement the concepts learned.
+
+###**Link to Work**
+[My Project Repo](https://github.com/trisssss/pluralsight-mvc-theWorld)
