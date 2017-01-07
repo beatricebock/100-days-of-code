@@ -65,3 +65,30 @@ There's a lot about learning technology that changes so much (so many resource v
 
 ###**Link to Work**
 [My Project Repo](https://github.com/trisssss/pluralsight-mvc-theWorld)
+
+
+
+## <h1>Day 2: January 7, 2017</h1>
+
+###**Today's Progress**:
+* Completed the Javascript module
+
+###**Thoughts:**
+jQuery has alwyas been a mystery to me. It's still a mystery, and since the versions have changed since July 2016, there's quite a bit of syntax change that I've got to figure out myself. The AHA! moments are endless with this course.
+
+###**Study Notes**
+**jQuery**
+* `$` is a selector. The selectors use the same syntax as CSS. For example, to select an element with an ID of "class", we write `$("#class")`. We can also select multiple classes or ids at one time. Example: `$(".class1, .class2")`
+* Sample `.click` function:
+```javascript
+$("#button").click(
+  function(){ 
+   alert.("You clicked a button!");
+  }
+ )
+```
+* `.text` changes the text of the selected element
+* `.toggleClass` adds and removes a class from the selected element.
+
+###**Link to Work**
+[My Project Repo](https://github.com/trisssss/pluralsight-mvc-theWorld)
