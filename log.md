@@ -92,3 +92,15 @@ $("#button").click(
 
 ###**Link to Work**
 [My Project Repo](https://github.com/trisssss/pluralsight-mvc-theWorld)
+
+
+## <h1>Day 3: January 8, 2017</h1>
+
+###**Today's Progress:**
+* Halfway through the MVC6 Module
+
+###**Thoughts:** 
+Holy crap this is frustrating. There's so much that's changed since the video was made, I spent 60% of the time figuring out workarounds/proper methods for the new versions. And bruh we need grunt to retrieve packages for jQuery Validate, and it's not even working??? Starting to realise that courses like these aren't exactly walkthroughs; they explain concepts, help you figure out what you need, then send you off to trudge through on your own.
+
+###**Link to Work**
+[My Project Repo](https://github.com/trisssss/pluralsight-mvc-theWorld)
