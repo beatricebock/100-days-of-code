@@ -104,3 +104,15 @@ Holy crap this is frustrating. There's so much that's changed since the video wa
 
 ###**Link to Work**
 [My Project Repo](https://github.com/trisssss/pluralsight-mvc-theWorld)
+
+
+
+## <h1>Day 4: January 9, 2017</h1>
+
+###**Today's Progress:**
+* JavaScript Queue
+* JavaScript Boolean
+* JavaScript if-else statements
+
+###**Thoughts:**
+I like coding. It relaxes me. It also relaxes me to learn things. No work done on the repo today, though.
