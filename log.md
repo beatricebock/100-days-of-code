@@ -116,3 +116,33 @@ Holy crap this is frustrating. There's so much that's changed since the video wa
 
 ###**Thoughts:**
 I like coding. It relaxes me. It also relaxes me to learn things. No work done on the repo today, though.
+
+
+
+##<h1>Day 5: January 10, 2017</h1>
+
+###**Today's Progress:**
+* Started to listen to coding podcasts (StartHere.fm) during commute. Listened to podcast [#30: How to Become an Advanced Beginner](https://soundcloud.com/starthere-webdev/30-advanced-beginner)
+* Framework of personal portfolio
+
+###**Thoughts:**
+Found a way to listen to podcasts during commute. I really wish I'd done this sooner, because being stuck in 30 minute nightmare traffic isn't so bad when you're listening to people talking about how to learn code. I even commented on the post after being super inspired and comforted. Crazy thing is, Dain of StartHere.fm's (miraculously) reached out to _me_ and took the time to talk to me and helped me learn quite a few things. He even offered to be my mentor, which is _NUTS_. I've never had a mentor, I've always wanted one, and BAM. I would highly recommend anyone starting out to listen to Dain's podcasts, they're super informative and no-bullshittery. 
+
+####**Key takeaways from this episode**
+* **It's okay if you're slow. It'll take a couple years and lots and lots of tutorials before you can do anything substantial**
+This little golden nugget was phenomenal for me because I've been coding for a couple of years now, bouncing around languages as per my diploma curriculum and getting positively terrified because I still don't know enough to do anything substantial. To have someone who's estalbished in the industry to tell me to "Slow down, take your time, you'll be ready when you're ready" lifted off tons off my shoulders.
+* **Listen to videos about the technology even though you won't understand shit**
+It never occured to be to spend time and be clueless enough to let my brain just get used to the jargon and technical phrases. This is something I'll start doing for sure. Just a couple days before, I lamented about how tutorials like PluralSight aren't meant to be walkthroughs, but instead tools to let us know what exactly we need to build certain things or to have a certain skill. Dain puts it this way: "Let yourself learn the context, and understand the context." Then, BAM, holy shit that's exactly what I needed at this point, because I feel so lost and I don't even know where to begin, but here's this dude who _gets it_.
+* **Read tons of tutorials before beginning a walkthrough**
+It makes sense, because we'd "let our brains find the patterns" between the tutorials. Once we see a pattern, we can understand the workflow of any given technology.
+* **Just write**
+After listening, I heeded his advice and just wrote code. I finally finished a framework of my portfolio which I've put off since the day I saw the challenge on FCC. Even though I was rusty, it was extremely therapeutic to just realise that I _can_ create something. There's lots left to learn, but once we get over that first hill _And just start coding_, we've taken leaps and bounds to make ourselves better learners.
+
+> "I find too one piece of magic in life, that if you focus on helping other people, all your problems magically disappear" - Dain 
+
+This is kind of philosophical, but it makes a ton of sense. For example, by helping someone else solve a problem, you solidify your knowledge. That's from a programmer standpoint anyway, I'll be using this little piece of wisow for loads of other things from here on out.
+
+StartHere.fm changed my life, I think.
+
+###**Link to Work:**
+[Personal Portfolio](https://codepen.io/trisssss/pen/VmGmvj/?editors=1100)
