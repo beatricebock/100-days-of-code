@@ -146,3 +146,61 @@ StartHere.fm changed my life, I think.
 
 ###**Link to Work:**
 [Personal Portfolio](https://codepen.io/trisssss/pen/VmGmvj/?editors=1100)
+
+
+
+##<h1>Day 6: January 11, 2017</h1>
+
+###**Today's Progress**
+* Java recap - Conditions and Control Flow module on Codeacademy
+
+###**Thoughts:**
+"Practice Java" has been on my to-do list for days now, and I've put it off because I love web dev so much at the moment. I know it seems as though I jump around a lot, but that's how my diploma curriculum is. Granted, Javascript and .Net Core isn't part of my curriculum, learning new things and doing new things gives me the kicks. Should probably have some kind of system to make sure I don't completely abandon any technology.
+
+###**Study Notes:**
+**Java Boolean Operators**
+* `&&` **"AND" operator**. Will return true if and only if **both sides** of the operator are **true**. Example of use: `(false && true)` //returns false; `(4 < 5 && 7 <= 7)` //returns true
+* `||` **"OR operator"**. Will return true if **at least one** of the two sides of the operator is true. Example of use: `(2 > 1 || 3 > 4)` //returns true
+* `!` **NOT operator**. Inverses the result. Example: `!(6 =< 6)`//returns false; `!(8 > 9)`//returns true.
+* **Precedence:** `!` -> `&&` -> `||` 
+```Java
+System.out.println( !(false) || true && false);
+// returns true
+// 1. "!(false)" returns true, so the argument becomes "true || true && false"
+// 2. "true && false" evaluates to false, so the argument becomes "true || false"
+// 3. finally, "true || false" evaluates to "true".
+``` 
+* **If-Elseif-Else** 
+```Java
+		if (round > 12) {
+
+			System.out.println("The match is over!");
+
+		} else if (round > 0) {
+
+			System.out.println("The match is underway!");
+
+		}	else {
+
+			System.out.println("The boxing match hasn't started yet.");
+
+		}	
+```
+* **Ternary Conditions:** If/else shorthand. Syntax: `char result = (boolean expression) ? 'valueIfTrue' : 'valueIfFalse';`.
+* **Switch case:** 
+```Java
+int restaurantRating = 3; 
+
+switch (restaurantRating) {
+
+    case 1: System.out.println("This restaurant is not my favorite.");
+      break;
+
+    case 2: System.out.println("This restaurant is good.");
+      break;
+
+    default: System.out.println("I've never dined at this restaurant.");
+      break;
+}
+```
+
