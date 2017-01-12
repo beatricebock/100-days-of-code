@@ -204,3 +204,14 @@ switch (restaurantRating) {
 }
 ```
 
+
+##<h1>Day 7: January 12, 2017</h1>
+
+###**Today's Progress:**
+* Codeacademy Java Object Oriented Programming Module
+
+###**Thoughts:**
+Bless the lord, I know what methods do now!
+
+###**Study Notes:**
+* Methods are pre-defined sets of actions - they give a program its liveliness, it tells the program to _do stuff_
