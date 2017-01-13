@@ -215,3 +215,6 @@ Bless the lord, I know what methods do now!
 
 ###**Study Notes:**
 * Methods are pre-defined sets of actions - they give a program its liveliness, it tells the program to _do stuff_
+
+
+##<h1>Day 8: January 13, 2017</h1>
