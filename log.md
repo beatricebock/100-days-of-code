@@ -152,7 +152,7 @@ StartHere.fm changed my life, I think.
 ##<h1>Day 6: January 11, 2017</h1>
 
 ###**Today's Progress**
-* Java recap - Conditions and Control Flow module on Codeacademy
+* Codeacademy Java - Conditions and Control Flow
 
 ###**Thoughts:**
 "Practice Java" has been on my to-do list for days now, and I've put it off because I love web dev so much at the moment. I know it seems as though I jump around a lot, but that's how my diploma curriculum is. Granted, Javascript and .Net Core isn't part of my curriculum, learning new things and doing new things gives me the kicks. Should probably have some kind of system to make sure I don't completely abandon any technology.
@@ -208,7 +208,7 @@ switch (restaurantRating) {
 ##<h1>Day 7: January 12, 2017</h1>
 
 ###**Today's Progress:**
-* Codeacademy Java Object Oriented Programming Module
+* Codeacademy Java - Object Oriented Programming
 
 ###**Thoughts:**
 Bless the lord, I know what methods do now!
@@ -217,4 +217,74 @@ Bless the lord, I know what methods do now!
 * Methods are pre-defined sets of actions - they give a program its liveliness, it tells the program to _do stuff_
 
 
+
 ##<h1>Day 8: January 13, 2017</h1>
+
+###**Today's Progress:**
+* Codeacademy Java - Data Structure
+
+###**Thoughts:**
+Codeacademy is slacking a little here in this last module. Instead of taking time to explain For Each loops well enough for users to create For Each loops on their own, they give the entire snippet and basically asks users to copy and paste the code inside the editor. I've tried to make sense of it, and will include an explanation in the study notes section below.
+
+###**Study Notes:**
+* **For loops**, like most _loops_, _repeat_ a set of actions that are defined inside them. Here is an example:
+```Java
+for (int counter = 0; counter < 3; counter ++) {
+	System.out.println("The counter value is " + counter); //display the sentence "The counter value is [the current value counter in that particular repetition]"
+	
+//1. For loop runs for the first time. Program prints "The counter value is 0". After counter ++, the value of counter is now 0+1=1. 1 is less than 3, so the loop repeats.
+//2. For loop runs for the second time. Program prints "The counter value is 1". After counter ++, the value of counter is now 1+1=2. 2 is less than 3, so the loop repeats.
+//3. For loop runs for the third time. Program prints "The counter value is 2". After counter ++, the value of counter is now 2+1=3. 3 is **not** less than 3, so the loop stops.
+}
+```
+To split it up into easier to manage chunks, this is how it works: the program knows how many times the action (`System.out.println("The counter value is " + counter);`) from the following part of the code: `for(int counter = 0; counter < 3; counter++)`. `int counter` creates an integer variable named "counter" and assigns its starting value as '0'. This `counter < 3` bit says "repeat the action while the value of counter is less than 3". `counter++` tells the program to add 1 to "counter" every time the action in the code finishes one repetition. Each repetition runs in that order: check if counter is less than 3. If it is, then run the action inside the loop, finally add 1 to counter. If it is not, the loop stops.
+
+* An `ArrayList` is essentially a data structure that stores a list of values. Here's how it looks like, and how to do some stuff with it:
+```Java
+ArrayList<Integer> quizGrades = new ArrayList<Integer>(); //create a new arraylist called "quizGrades" that stores Integers.
+
+quizGrades.add(95); //add an integer value of "95" into the quizGrades array list 
+quizGrades.add(87); //add an integer value of "87" into the quizGrades array list 
+quizGrades.add(67); //add an integer value of "67" into the quizGrades array list 
+
+System.out.println(quizGrades.get(0); //Print the value inside the 0th index of quizGrades array list. In this case, since arrays begin its numbering (indexing) from 0, 0 refers to the first entered value in the array list, the progarm will print out "95",.
+
+quizGrades.add(0, 100); //add the value of "100" in the 0th position of the array. When you do this, "100" will be at the first (0) position in the array list. Everything else will get pushed down by one position, so "95" is now in index 1, the 2nd position.
+
+System.out.println(quizGrades.get(0)); //after the adding, this line will print out "100" 
+
+//To print out all the values in my ArrayList:
+for (int i = 0; i < quizGrades.size(); i++) {
+
+    System.out.println( quizGrades.get(i) ); //print out the value at the index numbered in the current value of "i". So if the value of i=2, the value printed out would be "87". Remember, we added "100" to the top of our array list, so the 3rd value(indexed at 2) becomes 87 instead of 67, since the positions are pushed downwards.
+
+}
+```
+
+* For-Each loops:
+```Java
+for (Integer grade : quizGrades){ //for every integer (that we'll name "grade" temporarily) inside the quizGrades array list, -
+    System.out.println(grade); //- do this.
+}
+```
+
+* A `HashMap` is another data structure that can store a list of values, but with "keys" assigned to these values. It works and looks a little like the `ArrayList`. There are two parts of the setup. The first part of the setup determines the data type of the key, and the second part determines the data type of the values. So if I wanted to set up a list of my friends'ages, and I want to be able to access my friends' ages by "entering" their names, this is how my HashMap would be set up:
+```Java
+HashMap<String, Integer> myFriends = new HashMap<String, Integer>(); //set up a HashMap named "myFriends" that have String values as "keys", and Integer values as, well, the main values that I want to keep track of. This is for the "name" and "age" of my friends
+
+myFriends.put("Mark", 24); //add a new record for a friend named Mark, who's 24.
+myFriends.put("Cassandra", 25); //add a new record for a friend named Cassandra, who's 25.
+myFriends.put("Zenas", 21); //add a new record for a friend named Zenas, who's 21.
+
+System.out.println( myFriends.get("Zenas") ); //print out the age for my friend Zenas. Notice we use the first part, the string/name value of the setups, as our "indexes". In other words, I can access my friends' ages by inserting their names.
+
+
+System.out.println( myFriends.size() ); //print out the number of records in my HashMap
+
+//To print all of the available data I have in my HashMap:
+for (String name: myFriends.keySet()) {
+
+    System.out.println(name + " is age: " + myFriends.get(name)); 
+}
+
+```
