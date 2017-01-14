@@ -288,3 +288,25 @@ for (String name: myFriends.keySet()) {
 }
 
 ```
+
+
+
+##<h1>Day 9: January 14, 2017</h1>
+
+###**Today's Progress:**
+* Rails Tutorial - Chapter 1
+
+###**Thoughts:**
+
+###**Notes:**
+Setting up a new file:
+* Command: `$rails new appname`
+Next steps:
+* Change dependencies in Gemfile
+* Build dependencies using `$bundle install`
+Test run on server
+* `$rails server` or `$rails server -b $IP -p $PORT` if on C9. use `$echo $IP` or `$echo $PORT` to get numbers
+* If on local server: Paste URL (http://0.0.0.0:3000) in address bar. If on C9, window->share->application->open
+MVC:
+* Change code in controller` 
+* Change routing in config/routes.rb -> syntax: `root 'controller_name#action_name'`
