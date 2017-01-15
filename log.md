@@ -309,4 +309,15 @@ Test run on server
 * If on local server: Paste URL (http://0.0.0.0:3000) in address bar. If on C9, window->share->application->open
 MVC:
 * Change code in controller` 
-* Change routing in config/routes.rb -> syntax: `root 'controller_name#action_name'`
+* Change routing in config/routes.rb -> syntax: `root 'controller_name#action_name'
+
+
+
+##<h1>Day 10: January 15. 2017</h1>
+
+###**Today's Progress:**
+* More rails, plus creating a new site following [this tutorial](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483#.4jbrj8fh3)
+
+###**Thoughts:**
+So glad I've decided on a language to work with. Rails is so powerful, it's ridiculous. Hopefully by the end of the week, I'll be able to deploy a mvp of a project I have to do for college.
+
