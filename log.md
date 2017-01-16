@@ -321,3 +321,12 @@ MVC:
 ###**Thoughts:**
 So glad I've decided on a language to work with. Rails is so powerful, it's ridiculous. Hopefully by the end of the week, I'll be able to deploy a mvp of a project I have to do for college.
 
+
+
+##<h1>Day 11: January 16, 2017</h1>
+
+###**Today's Progress:**
+* Java awt and event handling
+
+###**Thoughts:**
+AWT is fun, it's nice to finally learn a language that allows you to play with the UI, but oh boy the event handling bit is a little more complex. Maybe if I found good resources...
