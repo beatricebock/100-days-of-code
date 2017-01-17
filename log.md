@@ -1,18 +1,18 @@
 # 100 Days Of Code - Log
 
 ##**Index**
-* [Day 12]()
-* [Day 11]()
-* [Day 10]()
-* [Day 9]()
-* [Day 8]()
-* [Day 7]()
-* [Day 6]()
-* [Day 5]()
-* [Day 4]()
-* [Day 3]()
-* [Day 2]()
-* [Day 1]()https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-1-january-6-2017-
+* [Day 12](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-12-january-17-2017)
+* [Day 11](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-11-january-16-2017)
+* [Day 10](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-10-january-15-2017)
+* [Day 9](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-9-january-14-2017)
+* [Day 8](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-8-january-13-2017)
+* [Day 7](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-7-january-12-2017)
+* [Day 6](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-6-january-11-2017)
+* [Day 5](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-5-january-10-2017)
+* [Day 4](https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-4-january-9-2017-)
+* [Day 3](https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-3-january-8-2017-)
+* [Day 2](https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-2-january-7-2017-)
+* [Day 1](https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-1-january-6-2017-)
 * [Day 0](https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-0-january-5-2017-)
 
 
@@ -346,3 +346,13 @@ So glad I've decided on a language to work with. Rails is so powerful, it's ridi
 
 ###**Thoughts:**
 AWT is fun, it's nice to finally learn a language that allows you to play with the UI, but oh boy the event handling bit is a little more complex. Maybe if I found good resources...
+
+
+
+##<h2>Day 12: January 17, 2017</h2>
+
+###**Today's Progress:**
+* Java awt and event handling - windowListeners
+
+###**Thoughts:**
+
