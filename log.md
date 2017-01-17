@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+##**Index**
+* [Day 12]()
+* [Day 11]()
+* [Day 10]()
+* [Day 9]()
+* [Day 8]()
+* [Day 7]()
+* [Day 6]()
+* [Day 5]()
+* [Day 4]()
+* [Day 3]()
+* [Day 2]()
+* [Day 1]()https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-1-january-6-2017-
+* [Day 0](https://github.com/trisssss/100-days-of-code/blob/master/log.md#-day-0-january-5-2017-)
+
+
 ## <h1> Day 0: January 5, 2017 </h1>
 
 ###**Today's Progress**: 
