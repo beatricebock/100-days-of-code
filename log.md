@@ -352,7 +352,7 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 ##<h2>Day 12: January 17, 2017</h2>
 
 ###**Today's Progress:**
-* Java awt and event handling - windowListeners
+* Java awt and event handling - windowListeners - remember to add all other methods (windowDeactivated etc) to eliminate "abstract" errors.
 
 ###**Thoughts:**
 
