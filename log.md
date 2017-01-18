@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 13](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-13-january-18-2017)
 * [Day 12](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-12-january-17-2017)
 * [Day 11](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-11-january-16-2017)
 * [Day 10](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-10-january-15-2017)
@@ -349,10 +350,25 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 
 
 
-##<h2>Day 12: January 17, 2017</h2>
+##<h1>Day 12: January 17, 2017</h1>
 
 ###**Today's Progress:**
 * Java awt and event handling - windowListeners - remember to add all other methods (windowDeactivated etc) to eliminate "abstract" errors.
 
 ###**Thoughts:**
 
+
+
+##<h1>Day 13: January 18, 2017</h1>
+
+###**Today's Progress:**
+* Learning Java's windowClosing function and the proper way to do it 
+* More rails - see notes
+
+###**Thoughts:**
+
+##**Notes:**
+[Naming MVC component conventions](https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e):
+* **Models** - Title case and Singular: `rails generate model Message` - "Message" is the new model's name.
+* **Views** - Matches the controller name and actions it belongs to.
+* **Controllers** - Lowercase and Plural: `rails generate controller messages` - "messages" is the new controller's name.
