@@ -372,3 +372,4 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 * **Models** - Title case and Singular: `rails generate model Message` - "Message" is the new model's name.
 * **Views** - Matches the controller name and actions it belongs to.
 * **Controllers** - Lowercase and Plural: `rails generate controller messages` - "messages" is the new controller's name.
+[Controller action](https://www.codecademy.com/articles/standard-controller-actions)
