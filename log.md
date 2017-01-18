@@ -367,7 +367,7 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 
 ###**Thoughts:**
 
-##**Notes:**
+###**Notes:**
 [Naming MVC component conventions](https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e):
 * **Models** - Title case and Singular: `rails generate model Message` - "Message" is the new model's name.
 * **Views** - Matches the controller name and actions it belongs to.
