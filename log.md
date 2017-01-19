@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 14](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-14-january-19-2017)
 * [Day 13](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-13-january-18-2017)
 * [Day 12](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-12-january-17-2017)
 * [Day 11](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-11-january-16-2017)
@@ -373,3 +374,14 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 * **Views** - Matches the controller name and actions it belongs to.
 * **Controllers** - Lowercase and Plural: `rails generate controller messages` - "messages" is the new controller's name.
 [Controller action](https://www.codecademy.com/articles/standard-controller-actions)
+
+
+
+##<h1>Day 14: January 19, 2017</h1>
+
+###**Today's Progress:**
+* Finished up CodeAcademy's Rails: Authentication course! 
+
+###**Thoughts:**
+I've been so obsessed with learning lately, I'm starting to neglect my family and friends. But at the same time, I know that I have to work hard to provide for them in the way that they deserve. Dilemma, dilemma.
+
