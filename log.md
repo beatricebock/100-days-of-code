@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 16](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-16-january-21-2017)
+* [Day 15](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-15-january-20-2017)
 * [Day 14](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-14-january-19-2017)
 * [Day 13](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-13-january-18-2017)
 * [Day 12](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-12-january-17-2017)
@@ -384,4 +386,24 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 
 ###**Thoughts:**
 I've been so obsessed with learning lately, I'm starting to neglect my family and friends. But at the same time, I know that I have to work hard to provide for them in the way that they deserve. Dilemma, dilemma.
+
+
+
+##<h1>Day 15: January 20, 2017</h1>
+
+###**Today's Progress:**
+* Added CSS to my rails-blog project
+
+###**Thoughts:**
+Styling is admittedly my favorite part of the website-building process 
+
+
+
+##<h1>Day 16: January 21, 2017</h1>
+
+###**Today's Progress:**
+* Continued my VB.NET site for my assignment
+
+###**Thoughts:**
+I do not know what is going on. Send help.
 
