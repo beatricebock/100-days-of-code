@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 18](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-18-january-24-2017)
+* [Day 17](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-17-january-22-2017)
 * [Day 16](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-16-january-21-2017)
 * [Day 15](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-15-january-20-2017)
 * [Day 14](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-14-january-19-2017)
@@ -407,3 +409,24 @@ Styling is admittedly my favorite part of the website-building process
 ###**Thoughts:**
 I do not know what is going on. Send help.
 
+
+
+##<h1>Day 17: January 22, 2017</h1>
+
+###**Today's Progress:**
+* Continued my VB.NET site for my assignment
+
+###**Thoughts:**
+I do not know what is going on. Send help.
+
+
+
+##<h1>Day 18: January 24, 2017</h1>
+
+###**Today's Progress:**
+* JavaScript on FCC
+* JQuery recap on CodeAcademy
+* RailsTutorial and practicals
+
+###**Thoughts:**
+Lots of free time during "work" today. Quotes because I've not been given a single tasks the 7 hours I was there, so I used the opportunity to learn lots about JavaScript and Rails, and take a break from ASP.Net.
