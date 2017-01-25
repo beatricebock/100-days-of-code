@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 19](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-19-january-25-2017)
 * [Day 18](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-18-january-24-2017)
 * [Day 17](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-17-january-22-2017)
 * [Day 16](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-16-january-21-2017)
@@ -430,3 +431,13 @@ I do not know what is going on. Send help.
 
 ###**Thoughts:**
 Lots of free time during "work" today. Quotes because I've not been given a single tasks the 7 hours I was there, so I used the opportunity to learn lots about JavaScript and Rails, and take a break from ASP.Net.
+
+
+
+##<h1>Day 19: January 25, 2017</h1>
+
+###**Today's Progress:**
+* Railstutorial
+
+###**Thoughts:**
+I finally learned how to rollback and destroy if I generate a wrong controller or model by mistake. All this time, I've been deleting the entire directory and starting over oh boy
