@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 20-22](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-20-to-22)
 * [Day 19](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-19-january-25-2017)
 * [Day 18](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-18-january-24-2017)
 * [Day 17](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-17-january-22-2017)
@@ -441,3 +442,14 @@ Lots of free time during "work" today. Quotes because I've not been given a sing
 
 ###**Thoughts:**
 I finally learned how to rollback and destroy if I generate a wrong controller or model by mistake. All this time, I've been deleting the entire directory and starting over oh boy
+
+
+
+##<h1>Day 20 to 22</h1>
+
+###**Today's Progress:**
+* Java
+* Asp.NET
+
+###**Thoughts:**
+Finally back from Chinese New Year hiatus. There were lots of things I picked up again, such as old friends and blogging. I so want to blog, but hearing all those things from sites like Serious Blogging Only and Wealthy Affiliate, I'm starting to wonder how I would go about it to make money off of what I do. There's lots to figure out, and money is starting to become tight. This log is supposed to be technical... Since no one reads it anyway, I might as well make it a journal-type thing.
