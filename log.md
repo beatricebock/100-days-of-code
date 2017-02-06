@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 23](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-23-february-7-2017)
 * [Day 20-22](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-20-to-22)
 * [Day 19](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-19-january-25-2017)
 * [Day 18](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-18-january-24-2017)
@@ -26,12 +27,12 @@
 
 ## <h1> Day 0: January 5, 2017 </h1>
 
-###**Today's Progress**: 
+###**Today's Progress**:
 * JavaScript Arrays
 * Javascript Functions
 * Javascript Local and Global Scopes
- 
-###**Thoughts:** 
+
+###**Thoughts:**
 I've never taken time to learn JavaScript properly, but I've recently learned that JS is extremely important and versatile. So glad FCC teaches us about multidimensional arrays, which was only lightly touched on in my Diploma course. Also, it's really great how the challenge requires us to use GitHub, because now I'd have good, practical exercises to practice using GitHub.
 
 ###**Study Notes**:
@@ -39,7 +40,7 @@ I've never taken time to learn JavaScript properly, but I've recently learned th
 * `.push(//value)`: **add** a new value to the **end** of an array.
 * `.pop()`: **remove** a value from the **end** of an array. Example of use: [1, 4, 6].pop()
 * `.shift()`: **remove** the **first value** from an array. Example of use: removedFromMyArray = myArray.shift()
-* `.unshift(//value)`: **add** a value to the **beginning** of an array. 
+* `.unshift(//value)`: **add** a value to the **beginning** of an array.
 
 ####**Functions**
 * **A sample function**, and how it's called:
@@ -72,19 +73,19 @@ function myFun() {
 * `return` can contain arguments. Example: `return x + 3;`
 
 
-###**Links to work:** 
+###**Links to work:**
 1. [Challenge: Shopping List](https://www.freecodecamp.com/challenges/shopping-list)
 
 
 
 ## <h1> Day 1: January 6, 2017 </h1>
 
-###**Today's Progress**: 
+###**Today's Progress**:
 * Completed the What is ASP.NET Core module
 * Completed the HTML and CSS Basics module
 * Followed along the tutorials with a local project and uploaded the notes and files to GitHub.
- 
-###**Thoughts:** 
+
+###**Thoughts:**
 There's a lot about learning technology that changes so much (so many resource versions since July 2016) that really teaches us to be versatile. Since quite a bit has changed with the extensions and resources used in the tutorials, I've had to dig around a little bit and train myself to avoid copying and pasting each line of code exactly in the tutorials. It's so important to do exercises on your own after watching tutorials; it really helps to strengthen and cement the concepts learned.
 
 ###**Link to Work**
@@ -106,7 +107,7 @@ jQuery has alwyas been a mystery to me. It's still a mystery, and since the vers
 * Sample `.click` function:
 ```javascript
 $("#button").click(
-  function(){ 
+  function(){
    alert.("You clicked a button!");
   }
  )
@@ -123,7 +124,7 @@ $("#button").click(
 ###**Today's Progress:**
 * Halfway through the MVC6 Module
 
-###**Thoughts:** 
+###**Thoughts:**
 Holy crap this is frustrating. There's so much that's changed since the video was made, I spent 60% of the time figuring out workarounds/proper methods for the new versions. And bruh we need grunt to retrieve packages for jQuery Validate, and it's not even working??? Starting to realise that courses like these aren't exactly walkthroughs; they explain concepts, help you figure out what you need, then send you off to trudge through on your own.
 
 ###**Link to Work**
@@ -150,7 +151,7 @@ I like coding. It relaxes me. It also relaxes me to learn things. No work done o
 * Framework of personal portfolio
 
 ###**Thoughts:**
-Found a way to listen to podcasts during commute. I really wish I'd done this sooner, because being stuck in 30 minute nightmare traffic isn't so bad when you're listening to people talking about how to learn code. I even commented on the post after being super inspired and comforted. Crazy thing is, Dain of StartHere.fm's (miraculously) reached out to _me_ and took the time to talk to me and helped me learn quite a few things. He even offered to be my mentor, which is _NUTS_. I've never had a mentor, I've always wanted one, and BAM. I would highly recommend anyone starting out to listen to Dain's podcasts, they're super informative and no-bullshittery. 
+Found a way to listen to podcasts during commute. I really wish I'd done this sooner, because being stuck in 30 minute nightmare traffic isn't so bad when you're listening to people talking about how to learn code. I even commented on the post after being super inspired and comforted. Crazy thing is, Dain of StartHere.fm's (miraculously) reached out to _me_ and took the time to talk to me and helped me learn quite a few things. He even offered to be my mentor, which is _NUTS_. I've never had a mentor, I've always wanted one, and BAM. I would highly recommend anyone starting out to listen to Dain's podcasts, they're super informative and no-bullshittery.
 
 ####**Key takeaways from this episode**
 * **It's okay if you're slow. It'll take a couple years and lots and lots of tutorials before you can do anything substantial**
@@ -162,7 +163,7 @@ It makes sense, because we'd "let our brains find the patterns" between the tuto
 * **Just write**
 After listening, I heeded his advice and just wrote code. I finally finished a framework of my portfolio which I've put off since the day I saw the challenge on FCC. Even though I was rusty, it was extremely therapeutic to just realise that I _can_ create something. There's lots left to learn, but once we get over that first hill _And just start coding_, we've taken leaps and bounds to make ourselves better learners.
 
-> "I find too one piece of magic in life, that if you focus on helping other people, all your problems magically disappear" - Dain 
+> "I find too one piece of magic in life, that if you focus on helping other people, all your problems magically disappear" - Dain
 
 This is kind of philosophical, but it makes a ton of sense. For example, by helping someone else solve a problem, you solidify your knowledge. That's from a programmer standpoint anyway, I'll be using this little piece of wisow for loads of other things from here on out.
 
@@ -186,15 +187,15 @@ StartHere.fm changed my life, I think.
 * `&&` **"AND" operator**. Will return true if and only if **both sides** of the operator are **true**. Example of use: `(false && true)` //returns false; `(4 < 5 && 7 <= 7)` //returns true
 * `||` **"OR operator"**. Will return true if **at least one** of the two sides of the operator is true. Example of use: `(2 > 1 || 3 > 4)` //returns true
 * `!` **NOT operator**. Inverses the result. Example: `!(6 =< 6)`//returns false; `!(8 > 9)`//returns true.
-* **Precedence:** `!` -> `&&` -> `||` 
+* **Precedence:** `!` -> `&&` -> `||`
 ```Java
 System.out.println( !(false) || true && false);
 // returns true
 // 1. "!(false)" returns true, so the argument becomes "true || true && false"
 // 2. "true && false" evaluates to false, so the argument becomes "true || false"
 // 3. finally, "true || false" evaluates to "true".
-``` 
-* **If-Elseif-Else** 
+```
+* **If-Elseif-Else**
 ```Java
 		if (round > 12) {
 
@@ -208,12 +209,12 @@ System.out.println( !(false) || true && false);
 
 			System.out.println("The boxing match hasn't started yet.");
 
-		}	
+		}
 ```
 * **Ternary Conditions:** If/else shorthand. Syntax: `char result = (boolean expression) ? 'valueIfTrue' : 'valueIfFalse';`.
-* **Switch case:** 
+* **Switch case:**
 ```Java
-int restaurantRating = 3; 
+int restaurantRating = 3;
 
 switch (restaurantRating) {
 
@@ -255,7 +256,7 @@ Codeacademy is slacking a little here in this last module. Instead of taking tim
 ```Java
 for (int counter = 0; counter < 3; counter ++) {
 	System.out.println("The counter value is " + counter); //display the sentence "The counter value is [the current value counter in that particular repetition]"
-	
+
 //1. For loop runs for the first time. Program prints "The counter value is 0". After counter ++, the value of counter is now 0+1=1. 1 is less than 3, so the loop repeats.
 //2. For loop runs for the second time. Program prints "The counter value is 1". After counter ++, the value of counter is now 1+1=2. 2 is less than 3, so the loop repeats.
 //3. For loop runs for the third time. Program prints "The counter value is 2". After counter ++, the value of counter is now 2+1=3. 3 is **not** less than 3, so the loop stops.
@@ -267,15 +268,15 @@ To split it up into easier to manage chunks, this is how it works: the program k
 ```Java
 ArrayList<Integer> quizGrades = new ArrayList<Integer>(); //create a new arraylist called "quizGrades" that stores Integers.
 
-quizGrades.add(95); //add an integer value of "95" into the quizGrades array list 
-quizGrades.add(87); //add an integer value of "87" into the quizGrades array list 
-quizGrades.add(67); //add an integer value of "67" into the quizGrades array list 
+quizGrades.add(95); //add an integer value of "95" into the quizGrades array list
+quizGrades.add(87); //add an integer value of "87" into the quizGrades array list
+quizGrades.add(67); //add an integer value of "67" into the quizGrades array list
 
 System.out.println(quizGrades.get(0); //Print the value inside the 0th index of quizGrades array list. In this case, since arrays begin its numbering (indexing) from 0, 0 refers to the first entered value in the array list, the progarm will print out "95",.
 
 quizGrades.add(0, 100); //add the value of "100" in the 0th position of the array. When you do this, "100" will be at the first (0) position in the array list. Everything else will get pushed down by one position, so "95" is now in index 1, the 2nd position.
 
-System.out.println(quizGrades.get(0)); //after the adding, this line will print out "100" 
+System.out.println(quizGrades.get(0)); //after the adding, this line will print out "100"
 
 //To print out all the values in my ArrayList:
 for (int i = 0; i < quizGrades.size(); i++) {
@@ -308,7 +309,7 @@ System.out.println( myFriends.size() ); //print out the number of records in my 
 //To print all of the available data I have in my HashMap:
 for (String name: myFriends.keySet()) {
 
-    System.out.println(name + " is age: " + myFriends.get(name)); 
+    System.out.println(name + " is age: " + myFriends.get(name));
 }
 
 ```
@@ -332,7 +333,7 @@ Test run on server
 * `$rails server` or `$rails server -b $IP -p $PORT` if on C9. use `$echo $IP` or `$echo $PORT` to get numbers
 * If on local server: Paste URL (http://0.0.0.0:3000) in address bar. If on C9, window->share->application->open
 MVC:
-* Change code in controller` 
+* Change code in controller`
 * Change routing in config/routes.rb -> syntax: `root 'controller_name#action_name'
 
 
@@ -369,7 +370,7 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 ##<h1>Day 13: January 18, 2017</h1>
 
 ###**Today's Progress:**
-* Learning Java's windowClosing function and the proper way to do it 
+* Learning Java's windowClosing function and the proper way to do it
 * More rails - see notes
 
 ###**Thoughts:**
@@ -386,7 +387,7 @@ AWT is fun, it's nice to finally learn a language that allows you to play with t
 ##<h1>Day 14: January 19, 2017</h1>
 
 ###**Today's Progress:**
-* Finished up CodeAcademy's Rails: Authentication course! 
+* Finished up CodeAcademy's Rails: Authentication course!
 
 ###**Thoughts:**
 I've been so obsessed with learning lately, I'm starting to neglect my family and friends. But at the same time, I know that I have to work hard to provide for them in the way that they deserve. Dilemma, dilemma.
@@ -399,7 +400,7 @@ I've been so obsessed with learning lately, I'm starting to neglect my family an
 * Added CSS to my rails-blog project
 
 ###**Thoughts:**
-Styling is admittedly my favorite part of the website-building process 
+Styling is admittedly my favorite part of the website-building process
 
 
 
@@ -453,3 +454,13 @@ I finally learned how to rollback and destroy if I generate a wrong controller o
 
 ###**Thoughts:**
 Finally back from Chinese New Year hiatus. There were lots of things I picked up again, such as old friends and blogging. I so want to blog, but hearing all those things from sites like Serious Blogging Only and Wealthy Affiliate, I'm starting to wonder how I would go about it to make money off of what I do. There's lots to figure out, and money is starting to become tight. This log is supposed to be technical... Since no one reads it anyway, I might as well make it a journal-type thing.
+
+
+
+##<h1>Day 23: February 7, 2017</h1>
+
+###**Today's Progress:**
+* Java - Input/Output Stream
+
+###**Thoughts:**
+Learned how to write/read from Java text files using input/output streams. I'm so tempted to implement every fancy feature that Oracle Documentation has to offer, but I'll only have time to implement the basic ones taught in class if I ever want to hope to finish my assignment in time.
