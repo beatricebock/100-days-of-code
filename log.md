@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ##**Index**
+* [Day 24](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-24-february-11-2017)
 * [Day 23](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-23-february-7-2017)
 * [Day 20-22](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-20-to-22)
 * [Day 19](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-19-january-25-2017)
@@ -464,3 +465,14 @@ Finally back from Chinese New Year hiatus. There were lots of things I picked up
 
 ###**Thoughts:**
 Learned how to write/read from Java text files using input/output streams. I'm so tempted to implement every fancy feature that Oracle Documentation has to offer, but I'll only have time to implement the basic ones taught in class if I ever want to hope to finish my assignment in time.
+
+
+
+##<h1>Day 24: February 11, 2017</h1>
+
+###**Today's Progress:**
+* Java - Input/Output Stream
+* Java - Validation
+
+###**Thoughts:**
+Implemented new knowledge of I/O streams into my assignment successfully. What I can't figure out, though, is how to remove the little spaces between my `.split` strings 
