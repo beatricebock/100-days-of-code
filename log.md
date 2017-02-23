@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Temporary Hiatus 
+There is an important need to figure out where you're going before you can think about how to get there. I made the mistake of trying to learn as much as I can without a proper direction - and I'm working to fix it. In the meantime, I wil be researching the kind of job I aim to achieve, and from there, I will return to 100 Days of Code with a direction and aim. Learning everything is fun, but it's not realistic to do everything well. Thank you for understanding.
+
+
 ##**Index**
 * [Day 24](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-24-february-11-2017)
 * [Day 23](https://github.com/trisssss/100-days-of-code/blob/master/log.md#day-23-february-7-2017)
